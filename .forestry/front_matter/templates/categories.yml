@@ -26,7 +26,7 @@ fields:
   config:
     required: true
 pages:
-- category/summer.md
-- category/europe.md
-- category/cactuses.md
 - category/bigplants.md
+- category/cactuses.md
+- category/europe.md
+- category/summer.md
